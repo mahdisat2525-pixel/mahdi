@@ -1,0 +1,7 @@
+<resources>
+ <style name="SplashTheme" parent="Theme.SplashScreen">
+  <item name="android:windowSplashScreenBackground">#07152E</item>
+  <item name="android:windowSplashScreenAnimatedIcon">@drawable/shop2_mahdisat_logo</item>
+  <item name="postSplashScreenTheme">@style/AppTheme</item>
+ </style>
+</resources>
